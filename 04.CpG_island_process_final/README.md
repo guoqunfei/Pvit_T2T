@@ -1,3 +1,4 @@
+```
 # Identification and analysis of CpG islands based on genome.fa
 
 # For genome.fa  file, please follow those steps:
@@ -12,3 +13,4 @@
   bash 04.work.sh
 # step5: 
   bash 05.work.sh
+```
