@@ -1,9 +1,14 @@
-Identification and analysis of CpG islands based on genome.fa
+# Identification and analysis of CpG islands based on genome.fa
 
-For genome.fa  file, please follow those steps:
+# For genome.fa  file, please follow those steps:
 
-step1: sh 01.CpG_island.sh
-step2: sh 02.CpG_island_link.sh
-step3: sh 03.work.sh
-step4: sh 04.work.sh
-step5: sh 05.work.sh
+# step1: 
+  bash 01.CpG_island.sh
+# step2: 
+  bash 02.CpG_island_link.sh
+# step3: 
+  bash 03.work.sh
+# step4: 
+  bash 04.work.sh
+# step5: 
+  bash 05.work.sh
